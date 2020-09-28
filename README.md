@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rxsto/rxsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Oskar, but you can call me Risto too, since that's my second first name 😉
 
-Here are some ideas to get you started:
+I'm mainly working on web applications but also spend time figuring out how to write efficient microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![rxsto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rxsto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Sadyl, most of my projects are listed private, but I also try to contribute to the open source world as well.
+
+[![rxsto's github stats](https://github-readme-stats.vercel.app/api?username=rxsto&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+You can get in contact with me via all kinds of ways, just check out my personal website: https://rxs.to
+
+~ Cheers
