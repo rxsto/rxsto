@@ -1,0 +1,3 @@
+[![rxsto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rxsto&layout=compact&custom_title=My+most+used+languages)](https://github.com/anuraghazra/github-readme-stats)
+
+[![rxsto's github stats](https://github-readme-stats.vercel.app/api?username=rxsto&count_private=true&show_icons=true&include_all_commits=true&custom_title=My+stats+on+GitHub&title_color=2e6b33&text_color=2b2b2b&icon_color=2e6b33)](https://github.com/anuraghazra/github-readme-stats)
