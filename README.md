@@ -1,15 +1,21 @@
-### Hi there 👋
+# Hey there 👋
 
-My name's Oskar, but you can call me Risto too, since that's my second first name 😉
+<span>
+<a href="https://rxs.to/discord"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" /></a>
+<a href="https://rxs.to/linkedin"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+<a href="https://rxs.to/twitter"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
+</span> 
 
-I'm mainly working on web applications but I also spend time figuring out how to write efficient microservices.
+😊 I am **Oskar**, better known as **rxsto** and **oz**! I am currently working on various projects including [Groovy](https://groovy.bot), [Hydra](https://hydra.bot) and [Dalacy](https://dalacy.net). Most of my contributions are **private** as of now but I still try to focus on committing myself to **open-source** libraries and projects.
 
-[![rxsto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rxsto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🚀 My journey in the wonderful land of code started at **age 11** when I first tried creating **simple websites** - this is possibly the reason why my **main skillset** is based on creating **web applications**.
 
-Sadly, most of my projects are listed private, but I'm trying to contribute to the open source world as well.
+🎓 I've **continued** making websites over the years now but I'd still call myself an experienced **full stack** / **devops** engineer since I started working on **backend applications** more and more.
 
-[![rxsto's github stats](https://github-readme-stats.vercel.app/api?username=rxsto&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+👷🏻 I am a huge fan of **using state-of-the-art systems** for deploying applications - and I'd also call myself **experienced** at working with **Kubernetes**. All of my **current active** projects are running in that container-orchestration system.
 
-You can get in contact with me via all kinds of ways, just check out my personal website: https://rxs.to
+👀 If you're **further interested** in my person and my work you can have a deeper look at [rxs.to](https://rxs.to) - my personal website.
 
-~ Cheers
+🌞 Have a **great day**! Cheers ~ rxsto
+
+![views](https://visitor-badge.glitch.me/badge?page_id=rxsto.rxsto)
