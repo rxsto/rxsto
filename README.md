@@ -1,10 +1,3 @@
-<img src="https://rxs.to/avatar.png" alt="" width="56" height="56" align="left">
-
-**Oskar Lang**<br>
-Software engineer in Kufstein, Austria
-
-<br clear="left">
-
 I'm a self-employed software engineer and build the whole stack: frontend, backend and infrastructure.
 
 **Projects**
