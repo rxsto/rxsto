@@ -16,7 +16,7 @@ A Discord bot with leveling, welcome and reaction-role features.
 
 <a href="https://rxs.to/hey-netflix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-n-dark.png"><img src="assets/tile-n-light.png" width="48" align="left" alt=""></picture></a>
 [Hey, Netflix](https://rxs.to/hey-netflix)<br>
-A movie-night bot for Discord, built for Netflix.
+Netflix’s official movie-night bot for Discord.
 <br clear="left">
 
 <a href="https://rxs.to/soundcloud"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-s-dark.png"><img src="assets/tile-s-light.png" width="48" align="left" alt=""></picture></a>
