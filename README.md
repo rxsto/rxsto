@@ -1,6 +1,6 @@
 I build **web products** and **Discord bots**. I co-own **Hydra**, lead development of **SoundCloud’s official Discord bot**, and have been self-employed **since 2018**.
 
-I take on contract work, from building a product on my own to leading a team or adding features to an existing app.
+I take on contract work. I can build a product on my own, lead a team, or add features to an existing app.
 
 **Selected work**
 
@@ -26,7 +26,7 @@ SoundCloud’s official Discord bot.
 
 **Now**
 
-Hydra’s rebuild, SoundCloud’s official Discord bot, and contract work for Top.gg and Finaure.
+I’m working on Hydra’s rebuild and SoundCloud’s official Discord bot, and on contracts with Top.gg and Finaure.
 
 **Since 2018**
 
@@ -34,6 +34,6 @@ Hydra’s rebuild, SoundCloud’s official Discord bot, and contract work for To
 `2020`&ensp;Became co-owner of Hydra<br>
 `2021`&ensp;Started on SoundCloud’s Discord bot as Groovy shut down · [Archive](https://web.archive.org/web/20210807122905/https://groovy.bot/)<br>
 `2022`&ensp;Built the Hey, Netflix bot for Netflix<br>
-`2026`&ensp;Began Hydra’s rebuild and new contracts with Digital Office 24, Top.gg and Finaure
+`2026`&ensp;Began Hydra’s rebuild and took on three new clients
 
 [rxs.to](https://rxs.to) · [hi@rxs.to](mailto:hi@rxs.to) · [CV](https://rxs.to/cv) · [LinkedIn](https://linkedin.com/in/oskar-lang) · [X](https://x.com/rxsto_official) · [Discord](https://discord.gg/r7tqQVs)
