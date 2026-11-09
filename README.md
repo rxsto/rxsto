@@ -26,7 +26,7 @@ SoundCloud’s official Discord bot.
 
 **Now**
 
-I’m working on Hydra’s rebuild and SoundCloud’s official Discord bot. I also have contracts with Top.gg and Finaure.
+Co-leading Hydra’s rebuild, leading development of SoundCloud’s official Discord bot, and building for Top.gg and an early-stage wealth-management startup.
 
 **Since 2018**
 
