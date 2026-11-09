@@ -1,6 +1,6 @@
-I build **web products** and **Discord bots**. I co-own **Hydra**, lead the official **SoundCloud bot** project, and have been self-employed **since 2018**.
+I build **web products** and **Discord bots**. I co-own **Hydra**, lead development of **SoundCloud’s official Discord bot**, and have been self-employed **since 2018**.
 
-I work on contract. I build whole products by myself, lead engineering teams, or add features to existing apps.
+I take on contract work, from building a product on my own to leading a team or adding features to an existing app.
 
 **Selected work**
 
@@ -11,7 +11,7 @@ A customer platform, from demo booking to billing.
 
 <a href="https://rxs.to/hydra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-h-dark.png"><img src="assets/tile-h-light.png" width="48" align="left" alt=""></picture></a>
 [Hydra](https://rxs.to/hydra)<br>
-A leveling, welcome and reaction-role bot for Discord.
+A Discord bot with leveling, welcome and reaction-role features.
 <br clear="left">
 
 <a href="https://rxs.to/hey-netflix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-n-dark.png"><img src="assets/tile-n-light.png" width="48" align="left" alt=""></picture></a>
@@ -26,14 +26,14 @@ SoundCloud’s official Discord bot.
 
 **Now**
 
-Leading Hydra’s rebuild, working with Top.gg and Finaure, and keeping the official SoundCloud bot running.
+Hydra’s rebuild, SoundCloud’s official Discord bot, and contract work for Digital Office 24, Top.gg and Finaure.
 
 **Since 2018**
 
 `2018`&ensp;Co-founded Groovy at 16 · [Archive](https://web.archive.org/web/20181114170958/https://groovy.bot/)<br>
 `2020`&ensp;Became co-owner of Hydra<br>
-`2021`&ensp;Groovy shut down; started work on SoundCloud’s bot · [Archive](https://web.archive.org/web/20210807122905/https://groovy.bot/)<br>
-`2022`&ensp;Built Hey, Netflix for Netflix<br>
-`2026`&ensp;Began Hydra’s rebuild; started work with Digital Office 24, Top.gg and Finaure
+`2021`&ensp;Started on SoundCloud’s Discord bot as Groovy shut down · [Archive](https://web.archive.org/web/20210807122905/https://groovy.bot/)<br>
+`2022`&ensp;Built the Hey, Netflix bot for Netflix<br>
+`2026`&ensp;Began Hydra’s rebuild and new contracts with Digital Office 24, Top.gg and Finaure
 
 [rxs.to](https://rxs.to) · [hi@rxs.to](mailto:hi@rxs.to) · [CV](https://rxs.to/cv) · [LinkedIn](https://linkedin.com/in/oskar-lang) · [X](https://x.com/rxsto_official) · [Discord](https://discord.gg/r7tqQVs)
