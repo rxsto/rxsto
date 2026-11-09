@@ -26,7 +26,7 @@ SoundCloud’s official Discord bot.
 
 **Now**
 
-Hydra’s rebuild, SoundCloud’s official Discord bot, and contract work for Digital Office 24, Top.gg and Finaure.
+Hydra’s rebuild, SoundCloud’s official Discord bot, and contract work for Top.gg and Finaure.
 
 **Since 2018**
 
